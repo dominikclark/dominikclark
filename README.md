@@ -1,4 +1,13 @@
-## Hi there 👋
+## Skills
+- C++
+- JavaScript
+- HTML
+- CSS
+- Python
+- Adobe Programs
+## Learning
+- Programming langauges
+- More advanced web design
 
 <!--
 **dominikclark/dominikclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
