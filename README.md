@@ -1,4 +1,5 @@
-[![Skills](https://skillicons.dev/icons?i=python,html5,css,javascript,c++&theme=light)](https://skillicons.dev)
+## Skills
+[![Skills](https://skillicons.dev/icons?i=python,html,css,javascript,github,cpp,ai,ps,pr,robloxstudio&theme=dark)](https://skillicons.dev)
 ## Learning
 - Programming langauges
 - More advanced web design
