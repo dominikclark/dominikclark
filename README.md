@@ -1,10 +1,4 @@
-## Skills
-- C++
-- JavaScript
-- HTML
-- CSS
-- Python
-- Adobe Programs
+[![Skills](https://skillicons.dev/icons?i=python,html5,css,javascript,c++&theme=light)](https://skillicons.dev)
 ## Learning
 - Programming langauges
 - More advanced web design
