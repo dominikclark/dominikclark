@@ -1,7 +1,8 @@
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=python,html,css,javascript,github,cpp,ai,ps,pr,robloxstudio&theme=dark)](https://skillicons.dev)
 ## Learning
-- Programming langauges
+- More programming langauges
+- More advanced techniques in already learned langauges
 - More advanced web design
 
 <!--
