@@ -4,6 +4,9 @@
 - More programming langauges
 - More advanced techniques in already learned langauges
 - More advanced web design
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 <!--
 **dominikclark/dominikclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
