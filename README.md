@@ -1,13 +1,7 @@
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=python,html,css,javascript,github,cpp,ai,ps,pr,robloxstudio&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,html,css,javascript,cpp,ai,ps,pr,robloxstudio&theme=dark)](https://skillicons.dev)
 ## Learning
 - More programming langauges
-- More advanced techniques in already learned langauges
-- More advanced web design
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 <!--
 **dominikclark/dominikclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
